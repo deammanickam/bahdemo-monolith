@@ -115,5 +115,4 @@ public class Blog implements Serializable {
             ", handle='" + getHandle() + "'" +
             "}";
     }
-    // testing
 }
