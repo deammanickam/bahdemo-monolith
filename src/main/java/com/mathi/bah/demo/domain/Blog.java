@@ -113,7 +113,7 @@ public class Blog implements Serializable {
             "id=" + getId() +
             ", name='" + getName() + "'" +
             ", handle='" + getHandle() + "'" +
-            "addutuibakaskdjfhkjdsfhk" +
+            "fasdfasdfd" +
             "}";
     }
 }
